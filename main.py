@@ -47,3 +47,4 @@ print(arr[0])
 
 print("NumPy Array Slicing".lower() + "\n")
 
+
